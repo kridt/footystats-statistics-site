@@ -1,5 +1,3 @@
-// src/api/football.js
-
 // Basis: vi kører alt via Vite-proxyen i vite.config.js
 const BASE = "https://v3.football.api-sports.io";
 
