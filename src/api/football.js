@@ -1,7 +1,7 @@
 // src/api/football.js
 
 // Basis: vi kører alt via Vite-proxyen i vite.config.js
-const BASE = "/api-football";
+const BASE = "https://v3.football.api-sports.io";
 
 // Vite eksponerer kun env-keys med prefix VITE_
 const API_KEY = import.meta.env.VITE_API_KEY;
